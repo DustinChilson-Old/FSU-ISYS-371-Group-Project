@@ -1,0 +1,13 @@
+services
+services offered
+services rendered
+insurance companies
+prescriptions
+drugs
+pharmacist
+bills
+insurance
+patients
+doctors
+doctors list
+appointments

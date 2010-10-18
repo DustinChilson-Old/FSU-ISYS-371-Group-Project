@@ -1,0 +1,5 @@
+Insert into Doctors (Doctor_First_Name,Doctor_Last_Name,Doctor_Address_1,Doctor_Address_2,Doctor_City,Doctor_State,Doctor_Zip,Doctor_Phone) Values ('Andrew','Matthews','1234 Home','A265','Gary','Indian','48293','2315739522')
+Insert into Doctors (Doctor_First_Name,Doctor_Last_Name,Doctor_Address_1,Doctor_Address_2,Doctor_City,Doctor_State,Doctor_Zip,Doctor_Phone) Values ('Chris','Wheaton','2345 Strome','B325','Cadillac','Michigan','49654','2318573355')
+Insert into Doctors (Doctor_First_Name,Doctor_Last_Name,Doctor_Address_1,Doctor_Address_2,Doctor_City,Doctor_State,Doctor_Zip,Doctor_Phone) Values ('Nick','Peplinski','3456 Cherokee','C211','Wyoming','Michigan','49564','2314789095')
+Insert into Doctors (Doctor_First_Name,Doctor_Last_Name,Doctor_Address_1,Doctor_Address_2,Doctor_City,Doctor_State,Doctor_Zip,Doctor_Phone) Values ('Damien','Rathers','4567 Pontiac','D534','Macinac','Michigan','49973','2315696436')
+Insert into Doctors (Doctor_First_Name,Doctor_Last_Name,Doctor_Address_1,Doctor_Address_2,Doctor_City,Doctor_State,Doctor_Zip,Doctor_Phone) Values ('Samantha','Tyler','5678 Chrysler','E897','Coopersville','Michigan','49223','2315954693')
