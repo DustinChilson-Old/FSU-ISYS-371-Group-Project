@@ -1,4 +1,3 @@
-/* SQLEditor (Generic SQL)*/
 DROP TABLE Prescriptions;
 DROP TABLE Pharmacist;
 DROP TABLE Drugs;

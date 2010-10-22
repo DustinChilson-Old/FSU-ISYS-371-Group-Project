@@ -1,0 +1,2 @@
+Delete From Patients 
+Where Patient_ID = '10000001'

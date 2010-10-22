@@ -1,0 +1,3 @@
+UPDATE Services   
+SET Services_Cost = Services_Cost + 100
+WHERE Services_ID = 10000000;
